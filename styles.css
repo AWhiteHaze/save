@@ -210,6 +210,12 @@ section.sobre ,section.habilidades .flex {
     max-width: 100px;
 
 }
+footer{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
 /* Mobile compact */
 @media screen and (max-width: 768px) {
     *{
