@@ -7,7 +7,7 @@
     color: white;
     font-family: "Poppins", sans-serif;
     font-size: 20px;
-    padding: 10px;
+   
 }
 body{
     font-family: 'Arial', sans-serif;
@@ -61,10 +61,7 @@ section{
     background-position: center;
     
 }
-.projetos-lista{
-    float: left;
-    
-}
+
 img{
     max-width: 100%;
     height: auto;
@@ -184,7 +181,7 @@ section.sobre ,section.habilidades .flex {
     
     
 }
-.subconatiner {
+.subcontainer {
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -307,4 +304,3 @@ section.sobre ,section.habilidades .flex {
         }
 
     }
-
